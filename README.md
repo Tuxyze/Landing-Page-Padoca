@@ -7,6 +7,13 @@ Apresenta design limpo, animações de scroll fluidas e interatividade moderna.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![License](https://img.shields.io/badge/license-MIT-green?style=flat)
+[![Live](https://img.shields.io/badge/demo-live-brightgreen?style=flat)](https://tuxyze.github.io/Landing-Page-Padoca/)
+
+---
+
+## Demo
+
+Acesse a versão publicada: **[tuxyze.github.io/Landing-Page-Padoca](https://tuxyze.github.io/Landing-Page-Padoca/)**
 
 ---
 
@@ -32,14 +39,14 @@ Apresenta design limpo, animações de scroll fluidas e interatividade moderna.
 
 ---
 
-## Como executar
+## Como executar localmente
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/landing-page-padoca
+git clone https://github.com/tuxyze/Landing-Page-Padoca
 
 # Acesse a pasta do projeto
-cd landing-page-padoca
+cd Landing-Page-Padoca
 
 # Abra no navegador
 open index.html
