@@ -1,6 +1,6 @@
-# Restaurant Landing Page
+# Landing Page Padoca
 
-Landing page responsiva com tema de restaurante, construída com HTML5, CSS3 e JavaScript.
+Landing page responsiva com tema de padaria, construída com HTML5, CSS3 e JavaScript.
 Apresenta design limpo, animações de scroll fluidas e interatividade moderna.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -36,10 +36,10 @@ Apresenta design limpo, animações de scroll fluidas e interatividade moderna.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/restaurant-landing
+git clone https://github.com/seu-usuario/landing-page-padoca
 
 # Acesse a pasta do projeto
-cd restaurant-landing
+cd landing-page-padoca
 
 # Abra no navegador
 open index.html
